@@ -124,7 +124,7 @@ After the COVID-19 pandemic, a significant increase in layoffs was observed acro
 ### Average Layoff Percentage by Year
 
 The average percentage of layoffs peaked in **2021** at **0.61**, reflecting the severe impact of the pandemic on employment.
-![Yearly Average Layoff Percentage](https://github.com/jasnoorvirk26/Layoffs-Data-Analysis/blob/main/yearly_avg_percent_layoff.png)
+![Yearly Average Layoff Percentage](https://github.com/jasnoorvirk26/Layoffs-Data-Analysis/blob/main/yearly_avg_percent_layoffs.png)
 
 ### Top Companies by Year
 The layoffs in 2023 were particularly notable, with Amazon, Google, and Microsoft together shedding over **40,000** jobs. This underscores the tech industry's adaptation to ongoing economic pressures and the push for operational efficiency.

@@ -62,6 +62,7 @@ In this section, we conducted exploratory data analysis to uncover trends and in
 6. **Top Companies by Layoffs**: Identified the top 5 companies with the highest total number of layoffs.
 7. **Average Layoff Percentage by Year**: Calculated the average percentage of layoffs for each year.
 8. **Total Layoffs by Year**: Retrieved the total layoffs for each year.
+9. **Top Companies by Year** We identified which companies laid off the most employees in each year, focusing on the top 3 companies annually. This analysis highlighted significant workforce reductions, particularly among major tech companies.
 
 These analyses provide a comprehensive overview of layoffs across different industries, countries, and companies, helping to uncover key trends and insights related to the impact of economic factors during the specified timeframe.
 
@@ -70,18 +71,23 @@ These analyses provide a comprehensive overview of layoffs across different indu
 ### Top Industries by Layoffs
 
 Analyzing layoffs from March 2020 to April 2024 reveals the profound impact on several industries, with the **Retail**, **Consumer**, **Transportation**, **Travel**, and **Finance** sectors consistently ranking among the hardest hit.
+![Top 5 Industries by Layoffs](https://github.com/jasnoorvirk26/Layoffs-Data-Analysis/blob/main/path/to/top_5_industries.png)
 
-### Layoffs in 2020: The Impact of COVID-19
+#### Layoffs in 2020: The Impact of COVID-19
 
 The onset of the COVID-19 pandemic in **2020** led to significant layoffs, particularly in **Transportation** and **Travel**. 
+![Top 5 Industries by Layoffs in 2020](https://github.com/jasnoorvirk26/Layoffs-Data-Analysis/blob/main/path/to/Top_5_industries_2020.png)
 
-### Persistent Challenges for Retail and Consumer Sectors
+#### Persistent Challenges for Retail and Consumer Sectors
 
 The **Retail** and **Consumer** sectors demonstrated a persistent trend of high layoffs over consecutive years, indicating ongoing vulnerabilities in these industries.
 
-### Rising Layoffs in Healthcare Post-COVID
+
+#### Rising Layoffs in Healthcare Post-COVID
 
 Starting in **2022**, the **Healthcare** sector began to show increased layoffs, highlighting the evolving challenges as the industry adjusted to new realities post-COVID.
+
+![Top 5 Industries by Layoffs in 2022 and 2023 ](https://github.com/jasnoorvirk26/Layoffs-Data-Analysis/blob/main/path/to/comparison_2022_2023.png)
 
 ### Top Countries by Layoffs
 
@@ -91,10 +97,13 @@ Starting in **2022**, the **Healthcare** sector began to show increased layoffs,
 - **United Kingdom**: 19,019 layoffs influenced by pandemic-related disruptions.
 - **Netherlands**: 18,445 layoffs mainly in logistics and technology sectors.
 
+  ![Top 5 Countries by Layoffs](https://github.com/jasnoorvirk26/Layoffs-Data-Analysis/blob/main/path/to/distri_by_country.png)
+
 ### Layoffs by Stage
 
 - **Post-IPO**: The highest layoffs (337,845) occurred in post-IPO companies.
 - **Acquired**: Companies that were acquired faced 59,457 layoffs.
+  ![Top 5 Stage by Layoffs](https://github.com/jasnoorvirk26/Layoffs-Data-Analysis/blob/main/path/to/layoffs_by_stage.png)
 
 ### Top Companies by Layoffs
 
@@ -103,15 +112,22 @@ Starting in **2022**, the **Healthcare** sector began to show increased layoffs,
 - **Tesla**: 14,500 layoffs.
 - **Microsoft**: 14,058 layoffs.
 - **Google**: 13,472 layoffs.
+  ![Top 5 Companies by Layoffs](https://github.com/jasnoorvirk26/Layoffs-Data-Analysis/blob/main/path/to/top_5_companies_by_layoffs.png)
 
 ### Total Layoffs by Year
 
 After the COVID-19 pandemic, a significant increase in layoffs was observed across industries, with **90,916** layoffs recorded in just the first four months of **2024**.
+![Yearly Total Layoffs](https://github.com/jasnoorvirk26/Layoffs-Data-Analysis/blob/main/path/to/yearly_layoffs.png)
 
 ### Average Layoff Percentage by Year
 
 The average percentage of layoffs peaked in **2021** at **0.61**, reflecting the severe impact of the pandemic on employment.
+![Yearly Average Layoff Percentage](https://github.com/jasnoorvirk26/Layoffs-Data-Analysis/blob/main/path/to/yearly_avg_percent_layoff.png)
 
+### Top Companies by Year
+The layoffs in 2023 were particularly notable, with Amazon, Google, and Microsoft together shedding over **40,000** jobs. This underscores the tech industry's adaptation to ongoing economic pressures and the push for operational efficiency.
+
+![Top Companies by Year](https://github.com/jasnoorvirk26/Layoffs-Data-Analysis/blob/main/path/to/top_3_companies_layoffs_by_year.png)
 ## Conclusion
 
 The analysis of layoff data from March 2020 to April 2024 highlights significant trends and shifts in the labor market influenced by the COVID-19 pandemic and subsequent economic conditions. Key industries such as Retail, Transportation, and Healthcare faced substantial workforce reductions, with major companies adapting to these challenges. These insights are crucial for understanding the evolving dynamics of the labor market and can help inform future strategies for workforce management.

@@ -71,7 +71,7 @@ These analyses provide a comprehensive overview of layoffs across different indu
 ### Top Industries by Layoffs
 
 Analyzing layoffs from March 2020 to April 2024 reveals the profound impact on several industries, with the **Retail**, **Consumer**, **Transportation**, **Travel**, and **Finance** sectors consistently ranking among the hardest hit.
-![Top 5 Industries by Layoffs](https://github.com/jasnoorvirk26/Layoffs-Data-Analysis/blob/main/path/to/top_5_industries.png)
+![Top 5 Industries by Layoffs](https://raw.githubusercontent.com/jasnoorvirk26/Layoffs-Data-Analysis/main/path/to/top_5_industries.png)
 
 #### Layoffs in 2020: The Impact of COVID-19
 
